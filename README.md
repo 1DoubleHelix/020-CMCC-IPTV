@@ -2,7 +2,7 @@
 
 - 确保已开通广州移动 IPTV 服务，本脚本可以将广州移动 IPTV 的 json 转换为 m3u 供本地使用
 - 需要将 IPTV 组播到本地网络，可以参考[我的教程](https://1doublehelix.github.io/padavan-cmcc-iptv)
-- 项目中的 `getAllChannel.json` 是实例文件，需要自行获取
+- 项目中的 `getAllChannel.json` 是示例文件
 
 ## 获取广州移动 IPTV 的 json
 
